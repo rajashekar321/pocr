@@ -1,0 +1,5 @@
+.left{
+        width:30%;
+    display: inline-flex;
+    flex-direction: column;
+}

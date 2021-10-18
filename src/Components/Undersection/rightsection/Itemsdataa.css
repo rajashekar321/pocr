@@ -1,0 +1,15 @@
+
+.productImg{
+    width:150px;
+    height: 150px;
+}
+.realPrice{
+    text-decoration: line-throughx;
+}
+.items__section{
+    padding:2px;
+    border:1px solid lightgrey;
+}
+.rating{
+    width:150px;
+}
