@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rajashekar321/Pocc.git/static/css/main.8293d69f.chunk.css",
+    "main.js": "/rajashekar321/Pocc.git/static/js/main.66ddcee1.chunk.js",
+    "main.js.map": "/rajashekar321/Pocc.git/static/js/main.66ddcee1.chunk.js.map",
+    "runtime-main.js": "/rajashekar321/Pocc.git/static/js/runtime-main.73606581.js",
+    "runtime-main.js.map": "/rajashekar321/Pocc.git/static/js/runtime-main.73606581.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/rajashekar321/Pocc.git/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.e94682f6.chunk.js": "/rajashekar321/Pocc.git/static/js/2.e94682f6.chunk.js",
+    "static/js/2.e94682f6.chunk.js.map": "/rajashekar321/Pocc.git/static/js/2.e94682f6.chunk.js.map",
+    "static/js/3.96674bba.chunk.js": "/rajashekar321/Pocc.git/static/js/3.96674bba.chunk.js",
+    "static/js/3.96674bba.chunk.js.map": "/rajashekar321/Pocc.git/static/js/3.96674bba.chunk.js.map",
+    "index.html": "/rajashekar321/Pocc.git/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/rajashekar321/Pocc.git/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.8293d69f.chunk.css.map": "/rajashekar321/Pocc.git/static/css/main.8293d69f.chunk.css.map",
+    "static/js/2.e94682f6.chunk.js.LICENSE.txt": "/rajashekar321/Pocc.git/static/js/2.e94682f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73606581.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.e94682f6.chunk.js",
+    "static/css/main.8293d69f.chunk.css",
+    "static/js/main.66ddcee1.chunk.js"
+  ]
+}
